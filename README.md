@@ -49,3 +49,10 @@ npm install
 
 # 3. Start the development server
 npm run dev
+
+---
+
+## 🙋‍♀️ About
+Made with 💙 by Vishakha Sharma
+
+Feel free to contribute, suggest ideas, or raise issues!
