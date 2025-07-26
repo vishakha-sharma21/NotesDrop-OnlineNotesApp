@@ -1,17 +1,51 @@
-<<<<<<< HEAD
-# React + Vite
+# 📝 NotesDrop - Online Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**NotesDrop** is a minimalist, responsive online notes application that allows users to **create**, **edit**, **delete**, **copy**, and **search** notes efficiently — all at one place.
 
-Currently, two official plugins are available:
+> ⚡ Built with React and styled using Tailwind CSS to ensure a smooth and modern user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# NotesDrop-OnlineNotesApp
-Developed a minimalist notes application allowing users to create, edit, copy, and delete notes with smooth UI transitions. Utilized React state management to dynamically handle note operations and UI updates. Designed a responsive and user-friendly interface with Tailwind CSS for quick note-taking and management.
->>>>>>> 818f1a6c54851d8f845aceb3ce4a87c42ff97502
+- 🆕 Create and save new notes
+- 🖊️ Edit existing notes
+- 🗑️ Delete notes with a click
+- 📋 Copy note content quickly
+- 🔍 Search notes by title
+- 📅 Displays timestamps for each note
+- 🌙 Dark mode UI with soft shadows and clean layout
+
+---
+### 🗂️ Notes Dashboard  
+<img width="2839" height="1269" alt="Screenshot 2025-07-26 164625" src="https://github.com/user-attachments/assets/e5c6d8a7-3bfb-46d4-b190-d1c539d50ee7" />
+
+### ➕ Create New Note  
+<img width="2834" height="1392" alt="Screenshot 2025-07-26 164644" src="https://github.com/user-attachments/assets/74a539a4-37e3-4791-8889-715d7853b209" />
+
+<img width="2837" height="1392" alt="image" src="https://github.com/user-attachments/assets/ec7c4207-51e2-4bfa-b7d7-eb810fe1ab61" />
+<img width="2846" height="1390" alt="image" src="https://github.com/user-attachments/assets/a499c0e9-a949-4ef0-91b1-820794c5814d" />
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide Icons
+- **Tooling**: Vite
+
+---
+
+## 📂 Installation & Setup
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/vishakha-sharma21/NotesDrop-OnlineNotesApp.git
+cd NotesDrop-OnlineNotesApp
+
+# 2. Install dependencies
+npm install
+
+# 3. Start the development server
+npm run dev
