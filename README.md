@@ -24,6 +24,7 @@
 <img width="2834" height="1392" alt="Screenshot 2025-07-26 164644" src="https://github.com/user-attachments/assets/74a539a4-37e3-4791-8889-715d7853b209" />
 
 <img width="2837" height="1392" alt="image" src="https://github.com/user-attachments/assets/ec7c4207-51e2-4bfa-b7d7-eb810fe1ab61" />
+
 <img width="2846" height="1390" alt="image" src="https://github.com/user-attachments/assets/a499c0e9-a949-4ef0-91b1-820794c5814d" />
 
 ---
@@ -54,5 +55,7 @@ npm run dev
 
 ## 🙋‍♀️ About
 Made with 💙 by Vishakha Sharma
-
 Feel free to contribute, suggest ideas, or raise issues!
+
+---
+
